@@ -11,8 +11,11 @@ const styles = StyleSheet.create({
   headerWrap: {
     alignItems: 'center',
     paddingVertical: 15,
-    borderBottomColor: 'green',
-    borderBottomWidth: 4,
+    borderBottomColor: 'white',
+    borderBottomWidth: 1,
+    borderBottomStartRadius: 30,
+    borderBottomEndRadius: 30,
+    marginBottom: 5,
     // backgroundColor: 'orange',
   },
   headerText: {
